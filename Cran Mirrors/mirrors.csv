@@ -1,0 +1,92 @@
+﻿nation,link,description
+0-Cloud,https://cloud.r-project.org/,"Automatic redirection to servers worldwide, currently sponsored by Posit"
+Argentina,http://mirror.fcaglp.unlp.edu.ar/CRAN/,Universidad Nacional de La Plata
+Australia,https://cran.csiro.au/,CSIRO
+Australia,https://mirror.aarnet.edu.au/pub/CRAN/,AARNET
+Australia,https://cran.ms.unimelb.edu.au/,"School of Mathematics and Statistics, University of Melbourne"
+Austria,https://cran.wu.ac.at/,Wirtschaftsuniversität Wien
+Belgium,https://www.freestatistics.org/cran/,Patrick Wessa
+Belgium,https://ftp.belnet.be/mirror/CRAN/,"Belnet, the Belgian research and education network"
+Brazil,https://cran-r.c3sl.ufpr.br/,Universidade Federal do Parana
+Brazil,https://cran.fiocruz.br/,"Oswaldo Cruz Foundation, Rio de Janeiro"
+Brazil,https://vps.fmvz.usp.br/CRAN/,"University of Sao Paulo, Sao Paulo"
+Brazil,https://brieger.esalq.usp.br/CRAN/,"University of Sao Paulo, Piracicaba"
+Bulgaria,https://ftp.uni-sofia.bg/CRAN/,Sofia University
+Canada,https://mirror.rcg.sfu.ca/mirror/CRAN/,"Simon Fraser University, Burnaby"
+Canada,https://muug.ca/mirror/cran/,Manitoba Unix User Group
+Canada,https://mirror.csclub.uwaterloo.ca/CRAN/,University of Waterloo
+Chile,https://cran.dcc.uchile.cl/,"Departamento de Ciencias de la Computación, Universidad de Chile"
+China,https://mirrors.tuna.tsinghua.edu.cn/CRAN/,"TUNA Team, Tsinghua University"
+China,https://mirrors.bfsu.edu.cn/CRAN/,Beijing Foreign Studies University
+China,https://mirrors.pku.edu.cn/CRAN/,Peking University
+China,https://mirrors.ustc.edu.cn/CRAN/,University of Science and Technology of China
+China,https://mirrors.zju.edu.cn/CRAN/,Zhejiang University
+China,https://mirror-hk.koddos.net/CRAN/,KoDDoS in Hong Kong
+China,https://mirrors.e-ducation.cn/CRAN/,Elite Education
+China,https://mirrors.qlu.edu.cn/CRAN/,Qilu University of Technology
+China,https://mirror.lzu.edu.cn/CRAN/,Lanzhou University Open Source Society
+China,https://mirrors.nju.edu.cn/CRAN/,"eScience Center, Nanjing University"
+China,https://mirrors.sjtug.sjtu.edu.cn/cran/,Shanghai Jiao Tong University
+China,https://mirrors.sustech.edu.cn/CRAN/,Southern University of Science and Technology (SUSTech)
+China,https://mirrors.nwafu.edu.cn/cran/,Northwest A&F University (NWAFU)
+Colombia,https://www.icesi.edu.co/CRAN/,Icesi University
+Costa Rica,https://mirror.uned.ac.cr/cran/,Distance State University (UNED)
+Czech Republic,https://mirrors.nic.cz/R/,"CZ.NIC, Prague"
+Denmark,https://mirrors.dotsrc.org/cran/,Aalborg University
+Ecuador,https://mirror.cedia.org.ec/CRAN/,CEDIA
+France,https://pbil.univ-lyon1.fr/CRAN/,"Dept. of Biometry & Evol. Biology, University of Lyon"
+France,https://mirror.ibcp.fr/pub/CRAN/,"CNRS IBCP, Lyon"
+France,https://cran.biotools.fr/,"IBDM, Marseille"
+France,https://cran.irsn.fr/,"French Nuclear Safety Institute, Paris"
+Germany,https://mirror.howtolearnalanguage.info/,dogado GmbH
+Germany,https://ftp.fau.de/cran/,Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)
+Germany,https://mirror.dogado.de/cran/,dogado GmbH
+Germany,https://ftp.gwdg.de/pub/misc/cran/,GWDG Göttingen
+Germany,https://cran.uni-muenster.de/,"University of Münster, Germany"
+Germany,https://mirror.clientvps.com/CRAN/,ClientVPS
+Greece,https://ftp.cc.uoc.gr/mirrors/CRAN/,University of Crete
+Iceland,https://cran.hafro.is/,Marine Research Institute
+India,https://cran.icts.res.in/,International Centre for Theoretical Sciences
+India,https://mirror.niser.ac.in/cran/,National Institute of Science Education and Research (NISER)
+Indonesia,https://cran.usk.ac.id/,Universitas Syiah Kuala
+Iran,https://cran.um.ac.ir/,Ferdowsi University of Mashhad
+Italy,https://cran.mirror.garr.it/CRAN/,"Garr Mirror, Milano"
+Italy,https://cran.stat.unipd.it/,University of Padua
+Japan,https://cran.ism.ac.jp/,"The Institute of Statistical Mathematics, Tokyo"
+Japan,https://ftp.yz.yamagata-u.ac.jp/pub/cran/,Yamagata University
+Korea,https://cran.yu.ac.kr/,Yeungnam University
+Mexico,https://cran.itam.mx/,Instituto Tecnologico Autonomo de Mexico
+Mexico,https://www.est.colpos.mx/,"Colegio de Postgraduados, Texcoco"
+Morocco,https://mirror.marwan.ma/cran/,MARWAN
+Netherlands,https://mirrors.evoluso.com/CRAN/,Evoluso.com
+Netherlands,https://mirror.lyrahosting.com/CRAN/,Lyra Hosting
+New Zealand,https://cran.stat.auckland.ac.nz/,University of Auckland
+Norway,https://cran.uib.no/,University of Bergen
+Poland,https://cran.mi2.ai/,"MI2.ai, Warsaw University of Technology"
+Portugal,https://cran.radicaldevelop.com/,"RadicalDevelop, Lda"
+Russia,https://mirror.truenetwork.ru/CRAN/,Truenetwork
+South Africa,https://cran.mirror.ac.za/,"TENET, Johannesburg"
+Spain,https://ftp.cixug.es/CRAN/,Oficina de software libre (CIXUG)
+Spain,https://cran.rediris.es/,"Spanish National Research Network, Madrid"
+Sweden,https://ftp.acc.umu.se/mirror/CRAN/,"Academic Computer Club, Umeå University"
+Switzerland,https://stat.ethz.ch/CRAN/,ETH Zürich
+Taiwan,https://cran.csie.ntu.edu.tw/,"National Taiwan University, Taipei"
+Thailand,http://mirrors.psu.ac.th/pub/cran/,"Prince of Songkla University, Hatyai"
+Turkey,https://cran.pau.edu.tr/,"Pamukkale University, Denizli"
+Turkey,https://cran.gedik.edu.tr/,Istanbul Gedik University
+UK,https://www.stats.bris.ac.uk/R/,University of Bristol
+UK,https://cran.ma.imperial.ac.uk/,Imperial College London
+UK,https://anorien.csc.warwick.ac.uk/CRAN/,University of Warwick
+USA,https://mirror.las.iastate.edu/CRAN/,"Iowa State University, Ames, IA"
+USA,http://ftp.ussg.iu.edu/CRAN/,Indiana University
+USA,https://repo.miserver.it.umich.edu/cran/,"MBNI, University of Michigan, Ann Arbor, MI"
+USA,https://cran.wustl.edu/,"Washington University, St. Louis, MO"
+USA,https://archive.linux.duke.edu/cran/,"Duke University, Durham, NC"
+USA,https://cran.case.edu/,"Case Western Reserve University, Cleveland, OH"
+USA,https://ftp.osuosl.org/pub/cran/,Oregon State University
+USA,http://lib.stat.cmu.edu/R/CRAN/,"Statlib, Carnegie Mellon University, Pittsburgh, PA"
+USA,https://cran.mirrors.hoobly.com/,"Hoobly Classifieds, Pittsburgh, PA"
+USA,https://mirrors.nics.utk.edu/cran/,"National Institute for Computational Sciences, Oak Ridge, TN"
+United Arab Emirates,https://cran.nyuad.nyu.edu/,New York University in Abu Dhabi
+Uruguay,https://espejito.fder.edu.uy/cran/,"Facultad de Derecho, Universidad de la República"
+Worldwide,https://mirrors.cicku.me/cran/,CICKU
